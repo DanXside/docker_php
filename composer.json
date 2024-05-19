@@ -10,5 +10,8 @@
   ],
   "autoload": {
     "psr-4": {"App\\": "application/src/"}
+  },
+  "require": {
+    "ext-pgsql": "*"
   }
 }
